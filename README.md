@@ -25,6 +25,6 @@ In order to facilitate future research and performance comparision, we decided t
 We also developped and tested several automatic procedures to detect micro-events such as sleep spindles, K-complexes, REMS, etc. and provide the source codes for them in the DREAMS Assessment Algorithm package.
 
 To access the data, follow this link:
-https://zenodo.org/communities/numediart/?page=1&size=20
+https://zenodo.org/record/2650142
 
  
